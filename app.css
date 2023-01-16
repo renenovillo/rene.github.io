@@ -1,0 +1,56 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+  }
+  
+  header {
+    background-color: #2152f6;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+  }
+  
+  nav a {
+    color: white;
+    text-decoration: none;
+    margin-right: 10px;
+  }
+  
+  main {
+    padding: 20px;
+  }
+  
+  section {
+    margin-bottom: 20px;
+  }
+  
+  section#home {
+    text-align: center;
+  }
+  
+  section#about {
+    text-align: center;
+  }
+  
+  section#projects {
+    text-align: center;
+  }
+  
+  section#portfolio {
+    text-align: center;
+  }
+  
+  section#contact {
+    text-align: center;
+  }
+  
+  footer {
+    background-color: #2152f6;
+    color: white;
+    text-align: center;
+    padding: 10px;
+  }
+  
